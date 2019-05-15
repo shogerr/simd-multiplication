@@ -1,0 +1,40 @@
+Multipl.	1	1.89822e-05
+Multipl.	10	8.90344e-06
+Multipl.	100	1.30013e-05
+Multipl.	1000	2.95006e-05
+Multipl.	10000	0.000143189
+Multipl.	100000	0.00139584
+Multipl.	1000000	0.0129787
+Multipl.	10000000	0.117755
+Multipl.	100000000	1.21417
+Multipl.	1000000000	12.1686
+SIMD Multipl.	1	1.74381e-05
+SIMD Multipl.	10	9.44361e-06
+SIMD Multipl.	100	1.26306e-05
+SIMD Multipl.	1000	1.49589e-05
+SIMD Multipl.	10000	8.27834e-05
+SIMD Multipl.	100000	0.000706723
+SIMD Multipl.	1000000	0.00571966
+SIMD Multipl.	10000000	0.0449671
+SIMD Multipl.	100000000	0.429807
+SIMD Multipl.	1000000000	4.50504
+Multipl./Reduction	1	1.77342e-05
+Multipl./Reduction	10	9.32254e-06
+Multipl./Reduction	100	1.63484e-05
+Multipl./Reduction	1000	2.56225e-05
+Multipl./Reduction	10000	0.00181052
+Multipl./Reduction	100000	0.00109749
+Multipl./Reduction	1000000	0.00985985
+Multipl./Reduction	10000000	0.0909648
+Multipl./Reduction	100000000	0.84909
+Multipl./Reduction	1000000000	8.50537
+SIMD Multipl./Reduction	1	1.72779e-05
+SIMD Multipl./Reduction	10	1.0157e-05
+SIMD Multipl./Reduction	100	1.48658e-05
+SIMD Multipl./Reduction	1000	1.50111e-05
+SIMD Multipl./Reduction	10000	5.21783e-05
+SIMD Multipl./Reduction	100000	0.000408383
+SIMD Multipl./Reduction	1000000	0.00236809
+SIMD Multipl./Reduction	10000000	0.0129193
+SIMD Multipl./Reduction	100000000	0.110077
+SIMD Multipl./Reduction	1000000000	1.08227
